@@ -1,0 +1,79 @@
+body {
+    font-family: eurostile-extended, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.back {
+    background-size: 100%;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: eurostile-extended, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.logo {
+    margin-top: 40px;
+    max-width: 200px;
+}
+
+h1 {
+    font-size: 30px;
+    color: lightsalmon;
+}
+
+p {
+    font-family: eurostile, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+
+header {
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+
+img {
+    width: 100%;
+}
+
+a {
+    margin-top: 40px;
+    float: right;
+    margin-right: 50px;
+    color: black;
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: lightsalmon;
+}
+
+h2 {
+    font-size: 24px;
+    color: lightsalmon;
+}
+
+p {
+    font-family: eurostile, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    color: white;
+    padding-left: 40px;
+    padding-top: 200px;
+    max-width: 770px;
+    padding-bottom: 60px;
+    font-size: 25px;
+}
+
+@media only screen and (min-width:768px) {}
+
+@media only screen and (min-width:1224px) {}
